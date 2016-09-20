@@ -12,7 +12,7 @@ Warning: Do not move, delete, duplicate, or modify any of the files within this 
 Program Description
 ------------------------------------------------------------------------------------------------------
 "Remember Me" is an address book program that allows you to enter people's names and their information, 
-such as their Phone Numbers, emails, Home Addresses, and Birthday dates.
+such as their Phone Numbers, Email Addresses, Home Addresses, and Birthday Dates.
 
 The address book starts out blank, and any information that is added to the address book will be stored
 in text files even after the program is exited. The program allows the user to search for entries by name
